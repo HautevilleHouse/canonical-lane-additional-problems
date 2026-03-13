@@ -2,7 +2,7 @@
 
 Canonical Lane is a manifold-constrained local-to-global theorem library.
 
-This repository is the public index for the additional-problems tranche of the live canonical-lane project on GitHub. It maps 11 public theorem packages added after the earlier core index snapshot, keeping the newer problem family separately legible without rewriting the original index surface.
+This repository is the public index for the additional-problems tranche of the live canonical-lane project on GitHub. It maps 15 public theorem packages added after the earlier core index snapshot, keeping the newer problem family separately legible without rewriting the original index surface.
 
 ## Start Here
 
@@ -21,7 +21,7 @@ This repository is the public index for the additional-problems tranche of the l
 
 ## Family Summary
 
-- Total public additional-problems repos: `11`
+- Total public additional-problems repos: `15`
 - Core family phrases: `manifold-constrained`, `canonical lane`, `local-to-global`, `reproducible theorem package`
 - Review surface: paper, notes, artifacts, repro runner, manifest/hash discipline, reviewer map
 
@@ -29,8 +29,9 @@ This repository is the public index for the additional-problems tranche of the l
 
 - `Prime Patterns, Diophantine, and Transcendence`: `1` repos
 - `Arithmetic Geometry, Motives, Cohomology, and Hyperbolicity`: `7` repos
-- `Langlands, Galois, Automorphic, and Reciprocity`: `1` repos
+- `Langlands, Galois, Automorphic, and Reciprocity`: `3` repos
 - `Birational Geometry and Minimal Models`: `2` repos
+- `Differential Geometry and Metric Stability`: `2` repos
 
 ## Grouped Index
 
@@ -57,6 +58,8 @@ This repository is the public index for the additional-problems tranche of the l
 | Repo | Type | Description | Topics | Created | Live URL |
 |---|---|---|---|---|---|
 | `artin-holomorphy-conjecture-canonical-lane` | `standard-lane` | The Artin Holomorphy Conjecture via Artin L-function regularity persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package. | analytic-number-theory, artin-holomorphy-conjecture, artin-l-functions, automorphic-forms, canonical-lane, galois-representations, local-to-global, manifold-constrained, mathematical-proof, reproducibility | `2026-03-13` | [artin-holomorphy-conjecture-canonical-lane](https://github.com/HautevilleHouse/artin-holomorphy-conjecture-canonical-lane) |
+| `local-langlands-canonical-lane` | `super-repo` | Local Langlands Correspondence via packet-parameter persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package. | canonical-lane, galois-representations, local-fields, local-langlands, local-to-global, manifold-constrained, mathematical-proof, representation-theory, reproducibility | `2026-03-13` | [local-langlands-canonical-lane](https://github.com/HautevilleHouse/local-langlands-canonical-lane) |
+| `p-adic-langlands-canonical-lane` | `super-repo` | p-adic Langlands via p-adic packet persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package. | canonical-lane, galois-representations, local-to-global, manifold-constrained, mathematical-proof, p-adic-hodge-theory, p-adic-langlands, representation-theory, reproducibility | `2026-03-13` | [p-adic-langlands-canonical-lane](https://github.com/HautevilleHouse/p-adic-langlands-canonical-lane) |
 
 ### Birational Geometry and Minimal Models
 
@@ -64,6 +67,13 @@ This repository is the public index for the additional-problems tranche of the l
 |---|---|---|---|---|---|
 | `abundance-conjecture-canonical-lane` | `standard-lane` | The Abundance Conjecture via canonical-divisor persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package. | abundance-conjecture, algebraic-geometry, birational-geometry, canonical-divisors, canonical-lane, local-to-global, manifold-constrained, mathematical-proof, minimal-model-program, reproducibility | `2026-03-13` | [abundance-conjecture-canonical-lane](https://github.com/HautevilleHouse/abundance-conjecture-canonical-lane) |
 | `minimal-model-program-canonical-lane` | `super-repo` | Minimal Model Program via birational-reduction persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package. | algebraic-geometry, birational-geometry, canonical-lane, local-to-global, manifold-constrained, mathematical-proof, minimal-model-program, reproducibility | `2026-03-13` | [minimal-model-program-canonical-lane](https://github.com/HautevilleHouse/minimal-model-program-canonical-lane) |
+
+### Differential Geometry and Metric Stability
+
+| Repo | Type | Description | Topics | Created | Live URL |
+|---|---|---|---|---|---|
+| `chern-conjecture-canonical-lane` | `standard-lane` | The Chern Conjecture via affine-connection persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package. | affine-geometry, canonical-lane, chern-conjecture, differential-geometry, local-to-global, manifold-constrained, mathematical-proof, reproducibility, topology | `2026-03-13` | [chern-conjecture-canonical-lane](https://github.com/HautevilleHouse/chern-conjecture-canonical-lane) |
+| `yau-tian-donaldson-canonical-lane` | `standard-lane` | Yau-Tian-Donaldson Conjecture via Kähler-Einstein persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package. | canonical-lane, complex-geometry, k-stability, kahler-einstein-metrics, local-to-global, manifold-constrained, mathematical-proof, reproducibility, yau-tian-donaldson | `2026-03-13` | [yau-tian-donaldson-canonical-lane](https://github.com/HautevilleHouse/yau-tian-donaldson-canonical-lane) |
 
 ## Notes
 
