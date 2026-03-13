@@ -1,30 +1,22 @@
 # Reviewer Entry Points
 
-This file gives the shortest serious route into the additional-problems tranche of the canonical-lane library.
+This tranche currently contains `35` public additional-problems repos.
 
-## Fast Review Order
+## Shortest Serious Route
 
-1. Read the main [README](README.md) to see the grouped problem families and the live repo list.
-2. Read [PUBLIC_OVERVIEW.md](PUBLIC_OVERVIEW.md) if you need the tranche-level purpose before opening individual repos.
-3. Use one super-repo and one standard-lane repo as the minimum audit pair:
-   - super-repo: [trace-formula-endoscopy-canonical-lane](https://github.com/HautevilleHouse/trace-formula-endoscopy-canonical-lane)
-   - standard-lane: [campana-kobayashi-hyperbolicity-canonical-lane](https://github.com/HautevilleHouse/campana-kobayashi-hyperbolicity-canonical-lane)
-4. Then compare against the parent method in [manifold-constrained-core](https://github.com/HautevilleHouse/manifold-constrained-core).
+1. Read [README.md](README.md) for the grouped live map.
+2. Read [canonical-lane-library](https://github.com/HautevilleHouse/canonical-lane-library) to see how this tranche sits beside the earlier core library.
+3. Read [manifold-constrained-core](https://github.com/HautevilleHouse/manifold-constrained-core) for the parent method.
+4. Then enter by cluster, depending on your field.
 
-## What To Look For
+## Cluster Entry Suggestions
 
-- the same parent method is present,
-- the later tranche stays within the canonical review surface,
-- the growth layer is indexed separately from the earlier main library,
-- super-repos are used where the subject is genuinely umbrella-level,
-- standard lanes remain compact where the endpoint is sharp.
+- Arithmetic geometry / motives / hyperbolicity: start with `bombieri-lang`, `section-conjecture`, `motivic-realizations`, `unlikely-intersections-ecology`.
+- Langlands / Galois / automorphic: start with `local-langlands`, `local-global-langlands-compatibility`, `trace-formula-architecture`, `p-adic-langlands`.
+- Birational geometry: start with `minimal-model-program`, `abundance`, `birational-classification`.
+- Metric / complex geometry: start with `chern`, `yau-tian-donaldson`, `finer-k-stability`.
+- Assembly and geometric group variants: start with `fibered-farrell-jones` and `decorated-l-theory-assembly`.
 
-## Suggested Audit Pairings
+## Review Rule
 
-- birational growth: `abundance-conjecture-canonical-lane` + `birational-geometry-canonical-lane` + `minimal-model-program-canonical-lane`
-- anabelian growth: `section-conjecture-canonical-lane` + `anabelian-reconstruction-canonical-lane` + `tempered-fundamental-group-canonical-lane`
-- arithmetic-geometry growth: `bombieri-lang-conjecture-canonical-lane` + `unlikely-intersections-canonical-lane` + `zilber-pink-conjecture-canonical-lane`
-- Langlands growth: `artin-holomorphy-conjecture-canonical-lane` + `trace-formula-endoscopy-canonical-lane` + `local-langlands-canonical-lane`
-- p-adic growth: `breuil-mezard-conjecture-canonical-lane` + `companion-forms-canonical-lane` + `p-adic-hodge-theory-canonical-lane`
-- stability/hyperbolicity growth: `yau-tian-donaldson-canonical-lane` + `finer-k-stability-canonical-lane` + `campana-kobayashi-hyperbolicity-canonical-lane`
-- assembly growth: `fibered-farrell-jones-conjecture-canonical-lane` + `decorated-l-theory-assembly-canonical-lane`
+Use this tranche as a dated expansion layer, not as a rewrite of the earlier index. That is why it exists separately.

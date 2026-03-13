@@ -1,12 +1,12 @@
 {
   "generated_from_live_github_state_on": "2026-03-13",
   "owner": "HautevilleHouse",
-  "repo_count": 28,
+  "repo_count": 35,
   "category_counts": {
     "Prime Patterns, Diophantine, and Transcendence": 1,
-    "Arithmetic Geometry, Motives, Cohomology, and Hyperbolicity": 11,
-    "Langlands, Galois, Automorphic, and Reciprocity": 8,
-    "Birational Geometry and Minimal Models": 3,
+    "Arithmetic Geometry, Motives, Cohomology, and Hyperbolicity": 15,
+    "Langlands, Galois, Automorphic, and Reciprocity": 10,
+    "Birational Geometry and Minimal Models": 4,
     "Differential Geometry and Metric Stability": 3,
     "Assembly, L-Theory, and Geometric Group Variants": 2
   },
@@ -62,6 +62,24 @@
           "description": "Anabelian Reconstruction via fundamental-group persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
           "topics": [
             "anabelian-geometry",
+            "canonical-lane",
+            "etale-fundamental-group",
+            "local-to-global",
+            "manifold-constrained",
+            "mathematical-proof",
+            "reconstruction",
+            "reproducibility"
+          ],
+          "created_at": "2026-03-13",
+          "type": "super-repo"
+        },
+        {
+          "name": "anabelian-reconstruction-program-canonical-lane",
+          "url": "https://github.com/HautevilleHouse/anabelian-reconstruction-program-canonical-lane",
+          "description": "Anabelian Reconstruction Program via multi-fundamental-group persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+          "topics": [
+            "anabelian-geometry",
+            "arithmetic-geometry",
             "canonical-lane",
             "etale-fundamental-group",
             "local-to-global",
@@ -165,6 +183,42 @@
           "type": "super-repo"
         },
         {
+          "name": "motivic-realizations-canonical-lane",
+          "url": "https://github.com/HautevilleHouse/motivic-realizations-canonical-lane",
+          "description": "Motivic Realizations via regulator-filtration persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+          "topics": [
+            "arithmetic-geometry",
+            "canonical-lane",
+            "filtrations",
+            "local-to-global",
+            "manifold-constrained",
+            "mathematical-proof",
+            "motives",
+            "regulators",
+            "reproducibility"
+          ],
+          "created_at": "2026-03-13",
+          "type": "super-repo"
+        },
+        {
+          "name": "p-adic-hodge-realizations-canonical-lane",
+          "url": "https://github.com/HautevilleHouse/p-adic-hodge-realizations-canonical-lane",
+          "description": "p-adic Hodge Realizations via period-filtration persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+          "topics": [
+            "arithmetic-geometry",
+            "canonical-lane",
+            "galois-representations",
+            "local-to-global",
+            "manifold-constrained",
+            "mathematical-proof",
+            "p-adic-hodge-theory",
+            "period-rings",
+            "reproducibility"
+          ],
+          "created_at": "2026-03-13",
+          "type": "super-repo"
+        },
+        {
           "name": "section-conjecture-canonical-lane",
           "url": "https://github.com/HautevilleHouse/section-conjecture-canonical-lane",
           "description": "The Section Conjecture via section-packet persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
@@ -211,6 +265,23 @@
             "manifold-constrained",
             "mathematical-proof",
             "reproducibility",
+            "unlikely-intersections"
+          ],
+          "created_at": "2026-03-13",
+          "type": "super-repo"
+        },
+        {
+          "name": "unlikely-intersections-ecology-canonical-lane",
+          "url": "https://github.com/HautevilleHouse/unlikely-intersections-ecology-canonical-lane",
+          "description": "Unlikely Intersections Ecology via atypical-family persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+          "topics": [
+            "arithmetic-geometry",
+            "canonical-lane",
+            "local-to-global",
+            "manifold-constrained",
+            "mathematical-proof",
+            "reproducibility",
+            "shimura-varieties",
             "unlikely-intersections"
           ],
           "created_at": "2026-03-13",
@@ -310,6 +381,24 @@
           "type": "standard-lane"
         },
         {
+          "name": "local-global-langlands-compatibility-canonical-lane",
+          "url": "https://github.com/HautevilleHouse/local-global-langlands-compatibility-canonical-lane",
+          "description": "Local-Global Langlands Compatibility via compatibility persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+          "topics": [
+            "automorphic-forms",
+            "canonical-lane",
+            "galois-representations",
+            "langlands-program",
+            "local-global-compatibility",
+            "local-to-global",
+            "manifold-constrained",
+            "mathematical-proof",
+            "reproducibility"
+          ],
+          "created_at": "2026-03-13",
+          "type": "super-repo"
+        },
+        {
           "name": "local-langlands-canonical-lane",
           "url": "https://github.com/HautevilleHouse/local-langlands-canonical-lane",
           "description": "Local Langlands Correspondence via packet-parameter persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
@@ -363,6 +452,24 @@
           "type": "super-repo"
         },
         {
+          "name": "trace-formula-architecture-canonical-lane",
+          "url": "https://github.com/HautevilleHouse/trace-formula-architecture-canonical-lane",
+          "description": "Trace Formula Architecture via geometric-spectral persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+          "topics": [
+            "automorphic-forms",
+            "canonical-lane",
+            "endoscopy",
+            "harmonic-analysis",
+            "local-to-global",
+            "manifold-constrained",
+            "mathematical-proof",
+            "reproducibility",
+            "trace-formula"
+          ],
+          "created_at": "2026-03-13",
+          "type": "super-repo"
+        },
+        {
           "name": "trace-formula-endoscopy-canonical-lane",
           "url": "https://github.com/HautevilleHouse/trace-formula-endoscopy-canonical-lane",
           "description": "Trace-Formula Endoscopy via stable-transfer persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
@@ -403,6 +510,23 @@
           ],
           "created_at": "2026-03-13",
           "type": "standard-lane"
+        },
+        {
+          "name": "birational-classification-canonical-lane",
+          "url": "https://github.com/HautevilleHouse/birational-classification-canonical-lane",
+          "description": "Birational Classification via model-class persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+          "topics": [
+            "algebraic-geometry",
+            "birational-geometry",
+            "canonical-lane",
+            "local-to-global",
+            "manifold-constrained",
+            "mathematical-proof",
+            "minimal-model-program",
+            "reproducibility"
+          ],
+          "created_at": "2026-03-13",
+          "type": "super-repo"
         },
         {
           "name": "birational-geometry-canonical-lane",

@@ -2,41 +2,27 @@
 
 Canonical Lane is a manifold-constrained local-to-global theorem library.
 
-This additional-problems index covers 28 public GitHub repositories added after the earlier core index surface. Each repository is still a theorem package rather than a manuscript dump. The standard public surface is:
+This repo tracks the additional-problems tranche of the public library: `35` later-added theorem packages kept separate from the earlier main index so the growth of the project stays legible.
 
-- main paper,
-- gate-specific notes,
-- tracked artifacts and constants,
-- rerun script,
-- manifest/hash discipline,
-- reviewer-facing map.
+## What This Tranche Contains
 
-## What This Tranche Is
+- later flagship omissions and near-flagship additions
+- broader umbrella and super-repo architectures
+- Langlands, arithmetic-geometry, birational, hyperbolicity, and assembly extensions
+- the same review surface as the main library: paper, notes, artifacts, rerun runner, manifest verification, reviewer map
 
-This tranche keeps the later problem additions separately visible without constantly rewriting the original central index.
+## Current Grouping
 
-It exists so readers can distinguish:
+- Prime Patterns, Diophantine, and Transcendence: `1`
+- Arithmetic Geometry, Motives, Cohomology, and Hyperbolicity: `15`
+- Langlands, Galois, Automorphic, and Reciprocity: `10`
+- Birational Geometry and Minimal Models: `4`
+- Differential Geometry and Metric Stability: `3`
+- Assembly, L-Theory, and Geometric Group Variants: `2`
 
-- the earlier stabilized library surface,
-- the later growth layer of additional theorem packages,
-- the parent method that governs both.
+## How To Use This Repo
 
-## Fast Entry Points
-
-- [HautevilleHouse profile](https://github.com/HautevilleHouse): top-level public entry surface.
-- [Canonical Lane Library](https://github.com/HautevilleHouse/canonical-lane-library): original core index surface.
-- [Manifold-Constrained Core](https://github.com/HautevilleHouse/manifold-constrained-core): parent method and cross-domain architecture.
-- [trace-formula-endoscopy-canonical-lane](https://github.com/HautevilleHouse/trace-formula-endoscopy-canonical-lane): super-repo example from the newer harmonic-analysis/Langlands tranche.
-- [p-adic-hodge-theory-canonical-lane](https://github.com/HautevilleHouse/p-adic-hodge-theory-canonical-lane): p-adic super-repo example.
-- [campana-kobayashi-hyperbolicity-canonical-lane](https://github.com/HautevilleHouse/campana-kobayashi-hyperbolicity-canonical-lane): specialist hyperbolicity example.
-- [decorated-l-theory-assembly-canonical-lane](https://github.com/HautevilleHouse/decorated-l-theory-assembly-canonical-lane): specialist assembly example.
-
-## What Makes It Different
-
-- it preserves the earlier index instead of repeatedly mutating its totals,
-- it timestamps the later theorem-library growth as a separate public surface,
-- it keeps the same canonical review architecture while making chronology legible.
-
-## If You Want The Full Map
-
-Return to the main [README](README.md) for the grouped additional-problems index, category counts, and live links.
+1. Read [README.md](README.md) for the grouped live index.
+2. Use [REVIEWER_ENTRY_POINTS.md](REVIEWER_ENTRY_POINTS.md) for the shortest serious way into the tranche.
+3. Use [canonical-lane-library](https://github.com/HautevilleHouse/canonical-lane-library) for the earlier index snapshot.
+4. Use [manifold-constrained-core](https://github.com/HautevilleHouse/manifold-constrained-core) for the parent method.
