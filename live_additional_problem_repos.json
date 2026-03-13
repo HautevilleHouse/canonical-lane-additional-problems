@@ -37,6 +37,23 @@
     "type": "super-repo"
   },
   {
+    "name": "anabelian-reconstruction-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/anabelian-reconstruction-canonical-lane",
+    "description": "Anabelian Reconstruction via fundamental-group persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "anabelian-geometry",
+      "canonical-lane",
+      "etale-fundamental-group",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reconstruction",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "super-repo"
+  },
+  {
     "name": "bombieri-lang-conjecture-canonical-lane",
     "url": "https://github.com/HautevilleHouse/bombieri-lang-conjecture-canonical-lane",
     "description": "The Bombieri-Lang Conjecture via rational-point sparsity persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
@@ -51,6 +68,23 @@
       "rational-points",
       "reproducibility",
       "varieties-of-general-type"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "campana-kobayashi-hyperbolicity-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/campana-kobayashi-hyperbolicity-canonical-lane",
+    "description": "Campana-Kobayashi Hyperbolicity via orbifold-hyperbolic persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "campana-hyperbolicity",
+      "canonical-lane",
+      "complex-geometry",
+      "kobayashi-hyperbolicity",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility"
     ],
     "created_at": "2026-03-13",
     "type": "standard-lane"
@@ -130,6 +164,39 @@
     "type": "standard-lane"
   },
   {
+    "name": "tempered-fundamental-group-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/tempered-fundamental-group-canonical-lane",
+    "description": "Tempered Fundamental Group via tempered-reconstruction persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "anabelian-geometry",
+      "canonical-lane",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "nonarchimedean-geometry",
+      "reproducibility",
+      "tempered-fundamental-group"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "unlikely-intersections-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/unlikely-intersections-canonical-lane",
+    "description": "Unlikely Intersections via atypical-locus persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "arithmetic-geometry",
+      "canonical-lane",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility",
+      "unlikely-intersections"
+    ],
+    "created_at": "2026-03-13",
+    "type": "super-repo"
+  },
+  {
     "name": "zilber-pink-conjecture-canonical-lane",
     "url": "https://github.com/HautevilleHouse/zilber-pink-conjecture-canonical-lane",
     "description": "The Zilber-Pink Conjecture via unlikely-intersection persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
@@ -167,6 +234,57 @@
     "type": "standard-lane"
   },
   {
+    "name": "breuil-mezard-conjecture-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/breuil-mezard-conjecture-canonical-lane",
+    "description": "The Breuil-Mezard Conjecture via multiplicity-cycle persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "breuil-mezard",
+      "canonical-lane",
+      "galois-representations",
+      "local-langlands",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "buzzard-gee-conjecture-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/buzzard-gee-conjecture-canonical-lane",
+    "description": "The Buzzard-Gee Conjecture via automorphic-Galois compatibility persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "automorphic-forms",
+      "buzzard-gee",
+      "canonical-lane",
+      "galois-representations",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "companion-forms-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/companion-forms-canonical-lane",
+    "description": "Companion Forms via weight-companion persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "automorphic-forms",
+      "canonical-lane",
+      "companion-forms",
+      "galois-representations",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
     "name": "local-langlands-canonical-lane",
     "url": "https://github.com/HautevilleHouse/local-langlands-canonical-lane",
     "description": "Local Langlands Correspondence via packet-parameter persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
@@ -179,6 +297,23 @@
       "manifold-constrained",
       "mathematical-proof",
       "representation-theory",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "super-repo"
+  },
+  {
+    "name": "p-adic-hodge-theory-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/p-adic-hodge-theory-canonical-lane",
+    "description": "p-adic Hodge Theory via period-realization persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "canonical-lane",
+      "galois-representations",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "p-adic-hodge-theory",
+      "period-rings",
       "reproducibility"
     ],
     "created_at": "2026-03-13",
@@ -203,6 +338,24 @@
     "type": "super-repo"
   },
   {
+    "name": "trace-formula-endoscopy-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/trace-formula-endoscopy-canonical-lane",
+    "description": "Trace-Formula Endoscopy via stable-transfer persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "automorphic-forms",
+      "canonical-lane",
+      "endoscopy",
+      "harmonic-analysis",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility",
+      "trace-formula"
+    ],
+    "created_at": "2026-03-13",
+    "type": "super-repo"
+  },
+  {
     "name": "abundance-conjecture-canonical-lane",
     "url": "https://github.com/HautevilleHouse/abundance-conjecture-canonical-lane",
     "description": "The Abundance Conjecture via canonical-divisor persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
@@ -220,6 +373,22 @@
     ],
     "created_at": "2026-03-13",
     "type": "standard-lane"
+  },
+  {
+    "name": "birational-geometry-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/birational-geometry-canonical-lane",
+    "description": "Birational Geometry via model-reduction persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "algebraic-geometry",
+      "birational-geometry",
+      "canonical-lane",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "super-repo"
   },
   {
     "name": "minimal-model-program-canonical-lane",
@@ -257,6 +426,23 @@
     "type": "standard-lane"
   },
   {
+    "name": "finer-k-stability-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/finer-k-stability-canonical-lane",
+    "description": "Finer K-Stability via stability-refinement persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "canonical-lane",
+      "complex-geometry",
+      "k-stability",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility",
+      "test-configurations"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
     "name": "yau-tian-donaldson-canonical-lane",
     "url": "https://github.com/HautevilleHouse/yau-tian-donaldson-canonical-lane",
     "description": "Yau-Tian-Donaldson Conjecture via K\u00e4hler-Einstein persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
@@ -270,6 +456,40 @@
       "mathematical-proof",
       "reproducibility",
       "yau-tian-donaldson"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "decorated-l-theory-assembly-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/decorated-l-theory-assembly-canonical-lane",
+    "description": "Decorated L-Theory Assembly via decoration-persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "algebraic-topology",
+      "assembly-map",
+      "canonical-lane",
+      "l-theory",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "fibered-farrell-jones-conjecture-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/fibered-farrell-jones-conjecture-canonical-lane",
+    "description": "The Fibered Farrell-Jones Conjecture via fibered-assembly persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "assembly-map",
+      "canonical-lane",
+      "fibered-farrell-jones",
+      "geometric-group-theory",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility"
     ],
     "created_at": "2026-03-13",
     "type": "standard-lane"

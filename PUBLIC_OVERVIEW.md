@@ -2,7 +2,7 @@
 
 Canonical Lane is a manifold-constrained local-to-global theorem library.
 
-This additional-problems index covers 15 public GitHub repositories added after the earlier core index surface. Each repository is still a theorem package rather than a manuscript dump. The standard public surface is:
+This additional-problems index covers 28 public GitHub repositories added after the earlier core index surface. Each repository is still a theorem package rather than a manuscript dump. The standard public surface is:
 
 - main paper,
 - gate-specific notes,
@@ -26,10 +26,10 @@ It exists so readers can distinguish:
 - [HautevilleHouse profile](https://github.com/HautevilleHouse): top-level public entry surface.
 - [Canonical Lane Library](https://github.com/HautevilleHouse/canonical-lane-library): original core index surface.
 - [Manifold-Constrained Core](https://github.com/HautevilleHouse/manifold-constrained-core): parent method and cross-domain architecture.
-- [local-langlands-canonical-lane](https://github.com/HautevilleHouse/local-langlands-canonical-lane): super-repo example from the newer Langlands tranche.
-- [yau-tian-donaldson-canonical-lane](https://github.com/HautevilleHouse/yau-tian-donaldson-canonical-lane): geometry/stability standard-lane example.
-- [minimal-model-program-canonical-lane](https://github.com/HautevilleHouse/minimal-model-program-canonical-lane): birational super-repo example.
-- [anabelian-hyperbolicity-canonical-lane](https://github.com/HautevilleHouse/anabelian-hyperbolicity-canonical-lane): arithmetic-geometry/hyperbolicity super-repo example.
+- [trace-formula-endoscopy-canonical-lane](https://github.com/HautevilleHouse/trace-formula-endoscopy-canonical-lane): super-repo example from the newer harmonic-analysis/Langlands tranche.
+- [p-adic-hodge-theory-canonical-lane](https://github.com/HautevilleHouse/p-adic-hodge-theory-canonical-lane): p-adic super-repo example.
+- [campana-kobayashi-hyperbolicity-canonical-lane](https://github.com/HautevilleHouse/campana-kobayashi-hyperbolicity-canonical-lane): specialist hyperbolicity example.
+- [decorated-l-theory-assembly-canonical-lane](https://github.com/HautevilleHouse/decorated-l-theory-assembly-canonical-lane): specialist assembly example.
 
 ## What Makes It Different
 
