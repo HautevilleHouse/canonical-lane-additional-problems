@@ -1,0 +1,205 @@
+[
+  {
+    "name": "bateman-horn-conjecture-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/bateman-horn-conjecture-canonical-lane",
+    "description": "The Bateman-Horn Conjecture via prime-pattern density persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "analytic-number-theory",
+      "bateman-horn-conjecture",
+      "canonical-lane",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "number-theory",
+      "polynomial-primes",
+      "prime-distribution",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "anabelian-hyperbolicity-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/anabelian-hyperbolicity-canonical-lane",
+    "description": "Anabelian Hyperbolicity via section-reconstruction persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "anabelian-geometry",
+      "arithmetic-geometry",
+      "canonical-lane",
+      "hyperbolicity",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility",
+      "section-conjecture"
+    ],
+    "created_at": "2026-03-13",
+    "type": "super-repo"
+  },
+  {
+    "name": "bombieri-lang-conjecture-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/bombieri-lang-conjecture-canonical-lane",
+    "description": "The Bombieri-Lang Conjecture via rational-point sparsity persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "arithmetic-geometry",
+      "bombieri-lang-conjecture",
+      "canonical-lane",
+      "diophantine-geometry",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "rational-points",
+      "reproducibility",
+      "varieties-of-general-type"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "green-griffiths-lang-conjecture-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/green-griffiths-lang-conjecture-canonical-lane",
+    "description": "The Green-Griffiths-Lang Conjecture via hyperbolic-entire-curve persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "canonical-lane",
+      "complex-geometry",
+      "entire-curves",
+      "green-griffiths-lang-conjecture",
+      "hyperbolicity",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility",
+      "varieties-of-general-type"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "grothendieck-serre-conjecture-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/grothendieck-serre-conjecture-canonical-lane",
+    "description": "The Grothendieck-Serre Conjecture via principal-bundle triviality persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "algebraic-geometry",
+      "arithmetic-geometry",
+      "canonical-lane",
+      "grothendieck-serre-conjecture",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "principal-bundles",
+      "reductive-groups",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "motivic-architecture-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/motivic-architecture-canonical-lane",
+    "description": "Motivic Architecture via realization-filtration persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "arithmetic-geometry",
+      "canonical-lane",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "motives",
+      "motivic-cohomology",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "super-repo"
+  },
+  {
+    "name": "section-conjecture-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/section-conjecture-canonical-lane",
+    "description": "The Section Conjecture via section-packet persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "anabelian-geometry",
+      "arithmetic-geometry",
+      "canonical-lane",
+      "etale-fundamental-group",
+      "galois-sections",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility",
+      "section-conjecture"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "zilber-pink-conjecture-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/zilber-pink-conjecture-canonical-lane",
+    "description": "The Zilber-Pink Conjecture via unlikely-intersection persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "arithmetic-geometry",
+      "canonical-lane",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility",
+      "shimura-varieties",
+      "unlikely-intersections",
+      "zilber-pink-conjecture"
+    ],
+    "created_at": "2026-03-13",
+    "type": "super-repo"
+  },
+  {
+    "name": "artin-holomorphy-conjecture-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/artin-holomorphy-conjecture-canonical-lane",
+    "description": "The Artin Holomorphy Conjecture via Artin L-function regularity persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "analytic-number-theory",
+      "artin-holomorphy-conjecture",
+      "artin-l-functions",
+      "automorphic-forms",
+      "canonical-lane",
+      "galois-representations",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "abundance-conjecture-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/abundance-conjecture-canonical-lane",
+    "description": "The Abundance Conjecture via canonical-divisor persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "abundance-conjecture",
+      "algebraic-geometry",
+      "birational-geometry",
+      "canonical-divisors",
+      "canonical-lane",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "minimal-model-program",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "standard-lane"
+  },
+  {
+    "name": "minimal-model-program-canonical-lane",
+    "url": "https://github.com/HautevilleHouse/minimal-model-program-canonical-lane",
+    "description": "Minimal Model Program via birational-reduction persistence on the manifold-constrained canonical lane. Reproducible local-to-global theorem package.",
+    "topics": [
+      "algebraic-geometry",
+      "birational-geometry",
+      "canonical-lane",
+      "local-to-global",
+      "manifold-constrained",
+      "mathematical-proof",
+      "minimal-model-program",
+      "reproducibility"
+    ],
+    "created_at": "2026-03-13",
+    "type": "super-repo"
+  }
+]
